@@ -2,14 +2,14 @@
 
 [小火箭共享账号与各区 Apple ID 现货：美区 / 港区 / 台区 / 日区 / 韩区 / 土耳其区独享老号，含已购 Shadowrocket 成品号，自动发货、一件也是批发价，欢迎全网比价。](https://nbid666.com/)
 
-> **最近更新：2026-11-10** ｜ 当前可用 **6 个账号**（美区 4 · 日本区 1 · 韩国区 1）｜ 长期维护
+> **最近更新：2026-11-10** ｜ 当前可用 **9 个账号**（美区 6 · 香港区 1 · 日本区 1 · 韩国区 1）｜ 长期维护
 
 <p align="center"><b>👇 下面三个都是按钮，点哪个进哪个</b></p>
 
 <p align="center">
   <a href="https://id.tangping.icu/" title="点击进入免费共享页，实时显示每个账号的可用状态"><img src="https://gulliblerea.github.io/-id-/assets/btn_live.png" alt="免费共享 ID · 立即取号" height="60"></a>
   <br><br>
-  <a href="https://nbid666.com/products/upstream-1-6-1787508489116" title="点击查看自带 Shadowrocket 的成品独享号"><img src="https://gulliblerea.github.io/-id-/assets/btn_rocket.png?v=2" alt="独享小火箭 · 已购成品号" height="60"></a>
+  <a href="https://nbid666.com/products/upstream-1-6-1787508489116" title="点击查看自带 Shadowrocket 的成品独享号"><img src="https://gulliblerea.github.io/-id-/assets/btn_rocket.png?v=3" alt="独享小火箭 · 已购成品号" height="60"></a>
   <br><br>
   <a href="https://nbid666.com/products" title="点击查看美区/港区/台区/日区/韩区老号现货"><img src="https://gulliblerea.github.io/-id-/assets/btn_shopall.png" alt="各区老号 · 美港台日韩" height="60"></a>
 </p>
@@ -28,7 +28,8 @@
 
 | 地区 | 数量 | 适合下载 |
 |---|---|---|
-| 🇺🇸 美区 | 4 | Shadowrocket（小火箭）、Quantumult X、Stash —— 美区应用最全 |
+| 🇺🇸 美区 | 6 | Shadowrocket（小火箭）、Quantumult X、Stash —— 美区应用最全 |
+| 🇭🇰 香港区 | 1 | 港区独占应用 |
 | 🇯🇵 日本区 | 1 | 日区独占应用 |
 | 🇰🇷 韩国区 | 1 | 韩区独占应用 |
 
@@ -117,7 +118,7 @@
 
 ## 🔄 更新记录
 
-- **2026-11-10**：全量复核，6 个账号（美区 4 · 日本区 1 · 韩国区 1）全部可用
+- **2026-11-10**：全量复核，9 个账号（美区 6 · 香港区 1 · 日本区 1 · 韩国区 1）全部可用
 
 ---
 
