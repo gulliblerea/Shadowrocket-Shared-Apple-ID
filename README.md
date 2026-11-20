@@ -1,17 +1,17 @@
 # 小火箭共享账号｜Shadowrocket 共享ID：免费美区 Apple ID 每日更新与安全使用指南
 
-[小火箭共享账号与各区 Apple ID 现货：美区 / 港区 / 台区 / 日区 / 韩区 / 土耳其区独享老号，含已购 Shadowrocket 成品号，自动发货、一件也是批发价，欢迎全网比价。](https://nbid666.com/)
+[小火箭共享账号与各区 Apple ID 现货：美区 / 港区 / 台区 / 日区 / 韩区 / 土耳其区独享老号，含已购 Shadowrocket 成品号，自动发货、一件也是批发价，欢迎全网比价。](https://nbid666.com/?utm_source=github&utm_medium=readme&utm_campaign=shadowrocket-shared)
 
-> **最近更新：2026-11-20** ｜ 当前可用 **7 个账号**（美区 2 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）｜ 长期维护
+> **最近更新：2026-11-21** ｜ 当前可用 **7 个账号**（美区 2 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）｜ 长期维护
 
 <p align="center"><b>👇 下面三个都是按钮，点哪个进哪个</b></p>
 
 <p align="center">
   <a href="https://id.tangping.icu/" title="点击进入免费共享页，实时显示每个账号的可用状态"><img src="https://gulliblerea.github.io/-id-/assets/btn_live.png" alt="免费共享 ID · 立即取号" height="60"></a>
   <br><br>
-  <a href="https://nbid666.com/products/upstream-1-6-1787508489116" title="点击查看自带 Shadowrocket 的成品独享号"><img src="assets/btn_rocket.png" alt="独享小火箭 · 已购成品号" height="60"></a>
+  <a href="https://nbid666.com/products/upstream-1-6-1787508489116?utm_source=github&utm_medium=readme&utm_campaign=shadowrocket-shared-rocket" title="点击查看自带 Shadowrocket 的成品独享号"><img src="assets/btn_rocket.png" alt="独享小火箭 · 已购成品号" height="60"></a>
   <br><br>
-  <a href="https://nbid666.com/products" title="点击查看美区/港区/台区/日区/韩区老号现货"><img src="https://gulliblerea.github.io/-id-/assets/btn_shopall.png" alt="各区老号 · 美港台日韩" height="60"></a>
+  <a href="https://nbid666.com/products?utm_source=github&utm_medium=readme&utm_campaign=shadowrocket-shared-products" title="点击查看美区/港区/台区/日区/韩区老号现货"><img src="https://gulliblerea.github.io/-id-/assets/btn_shopall.png" alt="各区老号 · 美港台日韩" height="60"></a>
 </p>
 
 <p align="center"><b>① 免费共享</b>　不花钱 · 多人共用，登不上换一个　｜　<b>② 独享小火箭</b>　自带 Shadowrocket · 可改密码　｜　<b>③ 各区老号</b>　可转区 · 现货即发</p>
@@ -68,7 +68,7 @@
 ## 📖 完整教程与延伸
 
 - **[小火箭美区 Apple ID 共享与使用教程](https://gulliblerea.github.io/-id-/)** —— 含完整下载步骤、五类常见报错处理、各区域 Apple ID 用途对比表
-- 需要**独享账号**（可以自己改密码、长期稳定使用）→ **[苹果 ID 批发零售小铺](https://nbid666.com/)**
+- 需要**独享账号**（可以自己改密码、长期稳定使用）→ **[苹果 ID 批发零售小铺](https://nbid666.com/?utm_source=github&utm_medium=readme&utm_campaign=shadowrocket-shared)**
   美区 / 香港区 / 台湾区 / 日区等各区域现货，一件也是批发价
 
 ---
@@ -119,6 +119,7 @@
 
 ## 🔄 更新记录
 
+- **2026-11-21**：全量复核，7 个账号（美区 2 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）全部可用
 - **2026-11-20**：全量复核，7 个账号（美区 2 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）全部可用
 - **2026-11-19**：全量复核，8 个账号（美区 3 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）全部可用
 - **2026-11-18**：全量复核，3 个账号（美区 1 · 香港区 1 · 日本区 1）全部可用
